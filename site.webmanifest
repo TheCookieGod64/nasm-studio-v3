@@ -1,0 +1,8 @@
+{
+  "name": "NASM Studio iPad",
+  "short_name": "NASM Studio",
+  "start_url": "/nasm-studio/",
+  "display": "standalone",
+  "background_color": "#1c1e24",
+  "theme_color": "#007aff"
+}
